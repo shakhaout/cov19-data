@@ -10,6 +10,11 @@
     "backgroud": "black"
   },
   {
+    "title": "Active",
+    "count": 14,
+    "backgroud": "red"
+  },
+  {
     "title": "Recovered",
     "count": 3,
     "backgroud": "green"
