@@ -1,0 +1,25 @@
+{
+  "data": [
+  {
+    "title": "Confirmed",
+    "count": 20,
+    "backgroud": "gray"
+  },
+  {
+    "title": "Death",
+    "count": 1,
+    "backgroud": "black"
+  },
+  {
+    "title": "Active",
+    "count": 14,
+    "backgroud": "red"
+  },
+  {
+    "title": "Recovered",
+    "count": 3,
+    "backgroud": "green"
+  }
+],
+  "lastUpdated": "2020-3-20 00:00:00"
+}
