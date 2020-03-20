@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Confirmed",
+    "count": 17,
+    "backgroud": "gray"
+  },
+  {
+    "title": "Death",
+    "count": 1,
+    "backgroud": "black"
+  },
+  {
+    "title": "Recovered",
+    "count": 3,
+    "backgroud": "green"
+  }
+]
