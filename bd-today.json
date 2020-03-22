@@ -1,7 +1,7 @@
 [
   {
     "title": "Confirmed",
-    "count": 24,
+    "count": 27,
     "backgroud": "gray"
   },
   {
@@ -11,12 +11,12 @@
   },
   {
     "title": "Active",
-    "count": 19,
+    "count": 20,
     "backgroud": "red"
   },
   {
     "title": "Recovered",
-    "count": 3,
+    "count": 5,
     "backgroud": "green"
   }
 ]
