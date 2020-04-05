@@ -1,22 +1,22 @@
 [
   {
     "title": "Confirmed",
-    "count": 39,
+    "count": 88,
     "backgroud": "gray"
   },
   {
     "title": "Death",
-    "count": 5,
+    "count": 9,
     "backgroud": "black"
   },
   {
     "title": "Active",
-    "count": 29,
+    "count": 46,
     "backgroud": "red"
   },
   {
     "title": "Recovered",
-    "count": 5,
+    "count": 33,
     "backgroud": "green"
   }
 ]
